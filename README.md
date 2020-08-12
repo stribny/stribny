@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there!
+
+- 📕 I’m currently working on a book [Efficient developer](https://efficientdeveloper.com/) on software development
+- ✒️ I am [blogging](https://stribny.name/blog/), read some of the popular articles:
+    - [Scaling relational SQL databases](https://stribny.name/blog/2020/07/scaling-relational-sql-databases)
+    - [Debugging Python programs](https://stribny.name/blog/2019/06/debugging-python-programs)
+    - [Building command line interfaces in Python](https://stribny.name/blog/2020/01/building-command-line-interfaces-in-python)
+    - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets)
+    - [Using Docker to provision databases for development and testing](https://stribny.name/blog/2019/09/using-docker-to-provision-databases-for-development-and-testing)
 
 <!--
 **stribny/stribny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
