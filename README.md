@@ -9,7 +9,7 @@
     - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets)
     - [Using Docker to provision databases for development and testing](https://stribny.name/blog/2019/09/using-docker-to-provision-databases-for-development-and-testing)
 - 🐦 You can find me on twitter as [@stribny](https://twitter.com/stribny)
-- 🚧 Have a look at some of my projects: [Contact Cache](https://contactcache.com/?utm_campaign=github) and [Textwok](https://textwok.com/?utm_campaign=github)
+- 🚧 Have a look at some of my projects: [Contact Cache](https://contactcache.com/?utm_campaign=github) and [Contentwok](https://contentwok.com/?utm_campaign=github)
 
 <!--
 **stribny/stribny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
