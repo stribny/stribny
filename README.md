@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 🐍 I am mostly interested in Python, data processing and visualization, information extraction, analytics, AI and privacy
+- 🐍 I am mostly interested in Python, data processing and visualization, information extraction, analytics and AI
 - 📕 I’m currently working on a book [Efficient developer](https://efficientdeveloper.com/?ref=github) on software development
 - ✒️ I am [blogging](https://stribny.name/blog/popular/?ref=github), read some of the popular articles:
     - [Finding Remote Work with Python and AI](https://stribny.name/blog/python-job-search/)
