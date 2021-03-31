@@ -2,7 +2,7 @@
 
 I am writing a book on software development:
 
-# [Efficient developer](https://efficientdeveloper.com/?ref=github) (Now in Early Access)
+# [Efficient Developer](https://efficientdeveloper.com/?ref=github) (Now in Early Access)
 
 I also write posts like:
 
