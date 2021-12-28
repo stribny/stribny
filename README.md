@@ -1,8 +1,12 @@
 ### Hi there!
 
-I am writing a book on software development:
+I wrote a book on software development:
 
-# [Efficient Developer](https://efficientdeveloper.com/?ref=github) (Now in Early Access)
+# [Efficient Developer](https://efficientdeveloper.com/?ref=github)
+
+And on command line usage:
+
+- [Command Line: A Modern Introduction](https://gum.co/moderncommandline)
 
 I also write posts like:
 
