@@ -1,20 +1,20 @@
 ### Hi there!
 
-I wrote a book on software development:
+I wrote a book about learning the command line:
 
-# [Efficient Developer](https://efficientdeveloper.com/?ref=github)
+- [Command Line Handbook](https://gum.co/moderncommandline)
 
-And on command line usage:
+I write a free dev newsletter:
 
-- [Command Line: A Modern Introduction](https://gum.co/moderncommandline)
+- [Software Development Tips](https://efficientdev.substack.com/)
 
-I also write posts like:
+I also write blog posts like:
 
 - [Finding Remote Work with Python and AI](https://stribny.name/blog/python-job-search/)
 - [Testing Python Applications with Pytest](https://stribny.name/blog/pytest/)
 - [Scaling relational SQL databases](https://stribny.name/blog/2020/07/scaling-relational-sql-databases)
 
-🐦 You can find me on twitter as [@stribny](https://twitter.com/stribny)
+🐦 You can find me on X as [@stribny](https://x.com/stribny)
 
 <!--
 **stribny/stribny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
