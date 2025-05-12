@@ -2,11 +2,11 @@
 
 I wrote a book about learning the command line:
 
-- [Command Line Handbook](https://gum.co/moderncommandline)
+- [Command Line Handbook](https://commandline.stribny.name)
 
 I write a free dev newsletter:
 
-- [Software Development Tips](https://efficientdev.substack.com/)
+- [Software Development Tips](https://stribny.name/devtips/)
 
 I also write blog posts like:
 
