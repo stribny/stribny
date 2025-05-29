@@ -6,7 +6,7 @@ I wrote a book about learning the command line:
 
 I write a free dev newsletter:
 
-- [Software Development Tips](https://stribny.name/devtips/)
+- [Software Development Tips](https://devtips.stribny.name/)
 
 I also write blog posts like:
 
